@@ -1,4 +1,4 @@
 ---
-title:	[heroku](http://www.heroku.com/ "heroku")
+title:	Heroku [heroku](http://www.heroku.com/ "heroku site")
 tags : [links ]
 ---
